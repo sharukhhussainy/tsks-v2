@@ -1,0 +1,16 @@
+{
+  "collections": [
+    {
+      "id": "1",
+      "title": "Design",
+      "tasks": [],
+      "color": "#0B3954"
+    },
+    {
+      "id": "2",
+      "title": "Groceries",
+      "tasks": [],
+      "color": "#FF6663"
+    }
+  ]
+}
